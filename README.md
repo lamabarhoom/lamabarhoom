@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Lama Barhoom</h1>
 
-<!--
-**lamabarhoom/lamabarhoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+💻 Frontend Developer • 🎓 Intelligent Systems and Computer Engineering Student • 🌍 Based in Palestine  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+
+- 🎓 I’m a **Intelligent Systems and Computer Engineering student** with a deep passion for building elegant and responsive web experiences.
+- 💡 I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
+- 🌱 Currently expanding my skills in **JavaScript**, **React**, **UI/UX**, and **GitHub Actions**.
+- 🎯 My goal is to build products that make a difference and help people.
+
+---
+
+### 🛠️ Technologies & Tools
+
+```yaml
+Languages:     HTML, CSS, Java, Python    
+Tools:         Git, GitHub, VS Code, Figma  
+Others:        Firebase, Canva, Markdown
+
