@@ -1,17 +1,17 @@
 <h1 align="center">Hi there 👋, I'm Lama Barhoom</h1>
 
 <p align="center">
-💻 Frontend Developer • 🎓 Intelligent Systems and Computer Engineering Student • 🌍 Based in Palestine  
+💻 Software Engineer • 🎓 Intelligent Systems and Computer Engineering Student • 🌍 Based in Palestine  
 </p>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 🎓 I’m a **Intelligent Systems and Computer Engineering student** with a deep passion for building elegant and responsive web experiences.
-- 💡 I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
-- 🌱 Currently expanding my skills in **JavaScript**, **React**, **UI/UX**, and **GitHub Actions**.
-- 🎯 My goal is to build products that make a difference and help people.
+- 🎓 I’m an **Intelligent Systems and Computer Engineering student** passionate about crafting elegant and user-friendly digital experiences.  
+- 💡 I love transforming complex challenges into simple, creative, and efficient solutions.  
+- 🌱 Currently learning and improving my skills in **Kotlin**, **Python**, **Java**, and **GitHub Actions**.  
+- 🎯 My goal is to create meaningful projects that inspire and make an impact.
 
 ---
 
@@ -19,6 +19,4 @@
 
 ```yaml
 Languages:     HTML, CSS, Java, Python    
-Tools:         Git, GitHub, VS Code, Figma  
-Others:        Firebase, Canva, Markdown
-
+Tools:         Git, GitHub, VS Code 
